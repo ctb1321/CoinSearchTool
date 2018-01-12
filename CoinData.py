@@ -33,6 +33,6 @@ def getCoinData(coinName):
 	else:
 		print 'Thank you for using this tool'
 		quit()
-	#thank the user, even ifthey were a
+	#thank the user
 getCoinData(coinUserInput)
 #run the program initially
