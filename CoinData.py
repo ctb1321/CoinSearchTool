@@ -1,3 +1,4 @@
+#!/usr/bin/python2.7
 import httplib
 
 coinUserInput = raw_input('\nEnter the coin name\n')
